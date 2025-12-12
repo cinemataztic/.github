@@ -30,4 +30,3 @@ type: Bug
 2.  Opret de tre filer (`story.md`, `task.md`, `bug.md`) og indsæt indholdet ovenfor.
 3.  Commit og push.
 
-Næste gang I trykker "New Issue", vil I blive præsenteret for disse tre valgmuligheder, og "Task"-templaten vil helt automatisk hjælpe folk med at huske den nye regel om sub-issues.
