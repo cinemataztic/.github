@@ -24,9 +24,3 @@ type: Bug
 
 ### 🌍 Environment
 - **Browser:** - **OS:** ```
-
-### Sådan installerer du dem
-1.  Opret mappen `.github/ISSUE_TEMPLATE/` i roden af jeres kode-repo (hvis den ikke findes).
-2.  Opret de tre filer (`story.md`, `task.md`, `bug.md`) og indsæt indholdet ovenfor.
-3.  Commit og push.
-
