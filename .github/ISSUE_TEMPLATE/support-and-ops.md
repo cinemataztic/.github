@@ -28,6 +28,8 @@ type: Task
 - [ ] This is **NOT** a "Break-Glass" emergency (I expect a response within the 24-Hour Relay SLA).
 - [ ] If this **IS** an emergency, I have used the **🚨 EMERGENCY: Break-Glass** template instead.
 
----
-> [!TIP]
-> **Triage:** Set Classification to **KTLO** in [Project 91](https://github.com/orgs/cinemataztic/projects/91) (operational/reactive support).
+<!-- Triage guidance:
+Classification default: KTLO (operational/reactive support)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: NO — typically requires manual ops execution (ansible, credentials, deploys); assign to human
+-->

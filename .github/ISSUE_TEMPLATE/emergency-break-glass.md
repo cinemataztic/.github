@@ -50,5 +50,8 @@ type: Task
 ---
 **Verification:** Logged as part of the Cinemataztic Incident Response Plan. Activity is monitored for OCG/Odeon Compliance (Checkpoints 2f / 6a / 6d).
 
-> [!TIP]
-> **Triage:** Set Classification to **KTLO** in [Project 91](https://github.com/orgs/cinemataztic/projects/91) (operational/reactive incident response).
+<!-- Triage guidance:
+Classification default: KTLO (operational/reactive incident response)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: NO — requires human Incident Commander authorization per CLAUDE.md rules
+-->

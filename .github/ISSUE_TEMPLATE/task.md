@@ -30,14 +30,13 @@ type: Task
 - [ ] Tests added/updated
 - [ ] No regression in dependent services
 
----
-### ⚠️ Classification Check
-*Default classification for technical tasks is **Maintenance** (proactive technical health — tech debt, security, refactoring, EOL).*
-
-- [ ] **Is this enabling a specific Feature/Epic?** → Set Classification to **Innovation** and link the parent.
-- [ ] **Is this incident remediation or reactive support?** → Set Classification to **KTLO**.
-- [ ] **Is this research, spike, or due diligence?** → Set Classification to **Strategic**.
-- [ ] **Otherwise (tech debt, security upgrade, EOL, refactor):** → Keep default **Maintenance**.
-
-> [!TIP]
-> **Triage:** Default Classification is **Maintenance** in [Project 91](https://github.com/orgs/cinemataztic/projects/91). Adjust based on the check above.
+<!-- Triage guidance:
+Classification default: Maintenance (proactive technical health)
+Classification check:
+- Is this enabling a specific Feature/Epic? → Innovation (link parent)
+- Is this incident remediation or reactive support? → KTLO
+- Is this research, spike, or due diligence? → Strategic
+- Otherwise (tech debt, security upgrade, EOL, refactor): → Maintenance (default)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: YES — apply 'claude-execute' label if scope is bounded with clear DoD
+-->

@@ -26,6 +26,8 @@ type: Epic
 - **Design/UX:** (Figma link)
 - **Tech Spec:** (Link)
 
----
-> [!TIP]
-> **Triage:** Set Classification to **Innovation** (new capability) or **Strategic** (foundational/research) in [Project 91](https://github.com/orgs/cinemataztic/projects/91).
+<!-- Triage guidance:
+Classification default: Innovation (new capability) or Strategic (foundational/research)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: NO — too broad, has children, requires architect-level decisions
+-->

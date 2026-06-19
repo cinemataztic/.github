@@ -30,6 +30,8 @@ type: Bug
 ### 📸 Screenshots / Logs
 *(Paste screenshots, Sentry links, or error logs here)*
 
----
-> [!TIP]
-> **Triage:** Set Classification to **KTLO** in [Project 91](https://github.com/orgs/cinemataztic/projects/91) (operational/reactive).
+<!-- Triage guidance:
+Classification default: KTLO (operational/reactive)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: YES (conditional) — apply 'claude-execute' label if Steps to Reproduce are clear and fix scope is bounded
+-->

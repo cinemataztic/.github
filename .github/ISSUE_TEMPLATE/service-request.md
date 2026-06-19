@@ -22,6 +22,8 @@ type: Task
 - [ ] Tested in environment
 - [ ] Stakeholder informed
 
----
-> [!TIP]
-> **Triage:** Set Classification to **Innovation** (new capability) or **Strategic** (foundational/research) in [Project 91](https://github.com/orgs/cinemataztic/projects/91).
+<!-- Triage guidance:
+Classification default: Innovation (new capability) or Strategic (foundational/research)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: YES — defined business-driven technical change with clear scope
+-->

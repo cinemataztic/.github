@@ -29,6 +29,8 @@ type: Story
 ### 🎨 UI/UX Mockups (Optional)
 *(Paste screenshots or Figma links here)*
 
----
-> [!TIP]
-> **Triage:** Set Classification to **Innovation** in [Project 91](https://github.com/orgs/cinemataztic/projects/91) (delivers new user value).
+<!-- Triage guidance:
+Classification default: Innovation (delivers new user value)
+Project 91: https://github.com/orgs/cinemataztic/projects/91
+Agent-eligible: PARTIAL — full stories require design decisions; link sub-Tasks for Claude execution
+-->
